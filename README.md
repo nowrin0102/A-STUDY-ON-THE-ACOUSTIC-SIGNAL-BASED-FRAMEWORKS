@@ -1,4 +1,4 @@
-# paper code
+# Please cite the following paper
 Name of the paper: A STUDY ON THE ACOUSTIC SIGNAL BASED FRAMEWORKS FOR THE REAL-TIME IDENTIFICATION OF GEOMETRICALLY DEFECTIVE WIRE ARC BEAD
 
 @inproceedings{surovi2021study,
